@@ -7,7 +7,7 @@ INSTALL_REQUIRE = [
 
 setup(
     name='krakenclient',
-    version='1.0.0',
+    version='1.0.1',
     packages=['krakenclient'],
     url='https://github.com/ApacheDatastreams/krakenclient',
     license='MIT',
